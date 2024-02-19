@@ -6,6 +6,7 @@ Welcome to Grand Fantasia Origins repository!
 
 - [Introduction](#introduction)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -23,3 +24,6 @@ We welcome contributions from the community. If you'd like to contribute to this
 5. Push to the branch (`git push origin feature/fooBar`).
 6. Create a new Pull Request.
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/FerOuvina/grand-fantasia-origins/blob/master/LICENSE).
